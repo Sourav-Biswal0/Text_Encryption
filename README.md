@@ -93,17 +93,41 @@ Output: KHOOR
 (Shift of +3 applied)
 
 
-🎯 Internship Project
+🎯 Internship Project:-
 This project was developed during my internship at Pinnacle Labs to improve skills in:
+
 🔐 Cyber Security Basics
+
 🔢 Encryption Techniques
+
 🌐 Frontend Development
+
 🐍 Python Programming
 
 
 
 🚀 Future Improvements
+
 🔶 AES Encryption
+
 🔶 File Encryption
+
 🔶 Dark/Light Theme
+
 🔶 Mobile Responsive Design
+
+👨‍💻 Author
+
+Sourav Biswal
+
+Intern @ Pinnacle Labs
+
+⭐ Support
+
+If you like this project:
+
+🌟 Star the repository
+
+🍴 Fork the project
+
+📢 Share with others
