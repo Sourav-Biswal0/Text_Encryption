@@ -3,11 +3,16 @@ A Text Encryption project developed using Python for backend logic and HTML/CSS 
 
 🔐 ShadowCrypt – Text Encryption System
 
-📌 Project Overview
+📌 Project Overview:-
+
 ShadowCrypt is a simple and attractive Text Encryption & Decryption System built using:
+
 🐍 Python
+
 🌐 HTML
+
 🎨 CSS
+
 🔢 Caesar Cipher Algorithm
 This project allows users to securely encrypt and decrypt secret messages using a custom encryption key.
 Developed as part of my internship at Pinnacle Labs.
