@@ -13,50 +13,65 @@ ShadowCrypt is a simple and attractive Text Encryption & Decryption System built
 
 🎨 CSS
 
-🔢 Caesar Cipher Algorithm
+🔢 Caesar Cipher Algorithm:-
+
 This project allows users to securely encrypt and decrypt secret messages using a custom encryption key.
 Developed as part of my internship at Pinnacle Labs.
 
 
 
-⭐ Features
+⭐ Features:-
+
 🔒 Encrypt Secret Messages
+
 🔓 Decrypt Encrypted Messages
+
 🔐 Caesar Cipher Algorithm
+
 🎨 Attractive Dark UI Design
+
 📱 Responsive Interface
+
 👨‍💻 Beginner-Friendly Project
+
 ⚡ Fast & Lightweight
+
 🧪 How It Works
 
 
-
 The system performs:
-1️⃣ User enters:
+1️⃣ User enters:-
 Message
+
 Encryption key
 2️⃣ Python generates encrypted output using Caesar Cipher:
-🔢 Formula:
-
+🔢 Formula:-
 E(x) = (x + n) mod 26
 
-
 Where:
+
 x = original character
+
 n = shift/encryption key
+
 26 = total alphabets
 
 
 📂 Project Structure
 
 ShadowCrypt/
+
 │── index.html
+
 │── style.css
+
 │── Text_Encryption.py
+
 │── README.md
 
 
 ▶️ How to Run
+
 🔹 Python Version
 Open Text_Encryption.py
 Enter your message
